@@ -1,6 +1,6 @@
 # FlexNMA
 
-CPU protein backbone sampling with internal-coordinate normal modes, pair-distance correction, soft region restraints and calibrated ensemble spread. No neural-network weights or GPU are required.
+Efficient yet competitive protein backbone on CPU sampling with internal-coordinate normal modes, pair-distance correction, soft region restraints and calibrated ensemble spread. 
 
 ## Install and sample
 
